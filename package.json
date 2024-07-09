@@ -1,0 +1,12 @@
+{
+  "name": "log-exporter",
+  "version": "1.0.0",
+  "description": "Dependency for export log of console navigator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
